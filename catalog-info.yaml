@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cloud-eda-1-bulk-import-test-1775948897099
+  annotations:
+    github.com/project-slug: cloud-eda/cloud-eda-1-bulk-import-test-1775948897099
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/rhdh-qe-2
